@@ -238,8 +238,8 @@ void assert_failed(uint8_t *file, uint32_t line)
  ![WhatsApp Image 2024-03-08 at 09 49 48_9de53879](https://github.com/22008837/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/120194155/20766115-d475-48af-8aff-89387e764bb2)
 
  ## Circuit board :
- 
- 
- 
+ ![image](https://github.com/22008837/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/120194155/74f92dc3-b79d-4e2c-b885-319b8468c5d6)
+![image](https://github.com/22008837/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/120194155/1ba99252-10f1-41c1-af07-a8afe7682cee)
+
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
